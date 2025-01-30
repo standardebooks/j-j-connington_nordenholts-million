@@ -46,16 +46,16 @@ p span.i2{
 }
 
 #chapter-2 blockquote p em{
-	font-variant-caps: all-small-caps;
 	font-style: normal;
+	font-variant-caps: all-small-caps;
 }
 
 #chapter-6 blockquote{
 	border: 1px solid currentColor;
 	font-size: larger;
-	text-transform: uppercase;
 	padding: 1em 0;
 	text-align: center;
+	text-transform: uppercase;
 }
 
 #chapter-6 blockquote p{
@@ -96,11 +96,11 @@ p span.i2{
 }
 
 #chapter-10 blockquote p em{
-	font-variant-caps: all-small-caps;
 	font-style: normal;
+	font-variant-caps: all-small-caps;
 }
 
-#chapter-10 blockquote#final {
+#chapter-10 blockquote#final{
 	text-align: revert;
 }
 
@@ -110,6 +110,6 @@ p span.i2{
 }
 
 #chapter-18 blockquote{
-	text-align: center;
 	font-variant-caps: small-caps;
+	text-align: center;
 }
