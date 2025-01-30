@@ -38,6 +38,24 @@
 	text-transform: none;
 }
 
+#chapter-7 table{
+	border: none;
+	margin: 1em auto;
+}
+
+#chapter-7 table tfoot td{
+	border-top: 1px solid currentColor;
+}
+
+#chapter-7 table th{
+	font-weight: normal;
+	text-align: left;
+}
+
+#chapter-7 table td{
+	text-align: right;
+}
+
 #chapter-10 blockquote{
 	text-align: center;
 }
