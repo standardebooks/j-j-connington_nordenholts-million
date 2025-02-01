@@ -121,3 +121,7 @@ p span.i2{
 	font-variant-caps: small-caps;
 	text-align: center;
 }
+
+#chapter-18 blockquote p{
+	text-indent: 0;
+}
