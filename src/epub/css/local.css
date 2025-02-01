@@ -113,6 +113,10 @@ p span.i2{
 	text-transform: uppercase;
 }
 
+#chapter-12 blockquote.placard p{
+	text-indent: 0;
+}
+
 #chapter-18 blockquote{
 	font-variant-caps: small-caps;
 	text-align: center;
