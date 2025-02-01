@@ -91,22 +91,21 @@ p span.i2{
 	text-align: right;
 }
 
-#chapter-10 blockquote{
+#chapter-10 blockquote p{
+	font-variant-caps: small-caps;
+}
+
+#chapter-10 blockquote.leaflet{
 	text-align: center;
 }
 
-#chapter-10 blockquote p{
-	font-variant-caps: small-caps;
+#chapter-10 blockquote.leaflet p{
 	text-indent: 0;
 }
 
-#chapter-10 blockquote p em{
+#chapter-10 blockquote.leaflet p em{
 	font-style: normal;
 	font-variant-caps: all-small-caps;
-}
-
-#chapter-10 blockquote#final{
-	text-align: revert;
 }
 
 #chapter-12 blockquote.placard{
