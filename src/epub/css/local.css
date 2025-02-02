@@ -84,11 +84,11 @@ p span.i2{
 
 #chapter-7 table th{
 	font-weight: normal;
-	text-align: left;
+	text-align: start;
 }
 
 #chapter-7 table td{
-	text-align: right;
+	text-align: end;
 }
 
 #chapter-10 blockquote p{
