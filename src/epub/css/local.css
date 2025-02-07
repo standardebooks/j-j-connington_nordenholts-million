@@ -78,12 +78,18 @@ p span.i2{
 	border-top: 1px solid currentColor;
 }
 
+#chapter-7 table tfoot th{
+	text-align: end;
+}
+
 #chapter-7 table th{
 	font-weight: normal;
+	padding-right: 1em;
 	text-align: start;
 }
 
 #chapter-7 table td{
+	font-variant-numeric: tabular-nums;
 	text-align: end;
 }
 
