@@ -56,6 +56,8 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Eugène Laermans</dc:contributor>
 		<meta property="file-as" refines="#artist">Laermans, Eugène</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Eugène Jules Joseph Baron Laermans</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Eugène Jules Joseph Laermans</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Eug%C3%A8ne_Laermans</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/nr93011592</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
