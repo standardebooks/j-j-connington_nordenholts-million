@@ -22,6 +22,13 @@ blockquote[xml|lang]{
 	display: none;
 }
 
+section[epub|type~="dedication"] p{
+	font-variant: small-caps;
+	margin-top: 3em;
+	text-align: center;
+	text-indent: 0;
+}
+
 p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
