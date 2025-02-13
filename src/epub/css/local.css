@@ -32,6 +32,30 @@ p span.i2{
 	text-indent: -1em;
 }
 
+table{
+	border: none;
+	margin: 1em auto;
+}
+
+table tfoot td{
+	border-top: 1px solid;
+}
+
+table tfoot th{
+	text-align: right;
+}
+
+table th{
+	font-weight: normal;
+	padding-right: 1em;
+	text-align: initial;
+}
+
+table td{
+	font-variant-numeric: tabular-nums;
+	text-align: right;
+}
+
 #chapter-2 blockquote{
 	text-align: center;
 }
@@ -52,7 +76,7 @@ p span.i2{
 }
 
 #chapter-6 blockquote{
-	border: 1px solid currentColor;
+	border: 1px solid;
 	font-size: larger;
 	padding: 1em 0;
 	text-align: center;
@@ -67,30 +91,6 @@ p span.i2{
 	font-size: smaller;
 	font-variant-caps: small-caps;
 	text-transform: none;
-}
-
-#chapter-7 table{
-	border: none;
-	margin: 1em auto;
-}
-
-#chapter-7 table tfoot td{
-	border-top: 1px solid currentColor;
-}
-
-#chapter-7 table tfoot th{
-	text-align: end;
-}
-
-#chapter-7 table th{
-	font-weight: normal;
-	padding-right: 1em;
-	text-align: start;
-}
-
-#chapter-7 table td{
-	font-variant-numeric: tabular-nums;
-	text-align: end;
 }
 
 #chapter-10 blockquote p{
