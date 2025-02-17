@@ -143,12 +143,12 @@ table td{
 	font-variant-caps: all-small-caps;
 }
 
-#chapter-12 blockquote[xml|lang]{
+#chapter-12 blockquote:nth-of-type(7){
 	text-align: center;
 	text-transform: uppercase;
 }
 
-#chapter-12 blockquote[xml|lang] p{
+#chapter-12 blockquote:nth-of-type(7) p{
 	text-indent: 0;
 }
 
