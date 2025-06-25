@@ -52,7 +52,7 @@
 		<dc:creator id="author">J. J. Connington</dc:creator>
 		<meta property="file-as" refines="#author">Connington, J. J.</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Alfred_Walter_Stewart</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n86862953</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n86862953</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Eugène Laermans</dc:contributor>
 		<meta property="file-as" refines="#artist">Laermans, Eugène</meta>
