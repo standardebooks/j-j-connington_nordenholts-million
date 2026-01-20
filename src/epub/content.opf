@@ -47,7 +47,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/64567</dc:source>
 		<dc:source>https://www.google.com/books/edition/Nordenholt_s_Million/0rYh8oILWY8C</dc:source>
-		<meta property="se:word-count">97511</meta>
+		<meta property="se:word-count">96446</meta>
 		<meta property="se:reading-ease.flesch">69.52</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-j-connington_nordenholts-million</meta>
 		<dc:creator id="author">J. J. Connington</dc:creator>
